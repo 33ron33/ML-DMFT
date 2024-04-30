@@ -5,5 +5,6 @@ Understanding strongly correlated electron systems in condensed matter is fundam
 
 ### References-
 - Georges, A., Kotliar, G., Krauth, W., & Rozenberg, M. J. (1996). Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions. Reviews of Modern Physics, 68(1), 13.
--TRIQS (Toolbox for Research on Interacting Quantum Systems)
+- TRIQS (Toolbox for Research on Interacting Quantum Systems)
+
 
